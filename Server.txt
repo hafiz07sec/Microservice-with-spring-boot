@@ -1,0 +1,11 @@
+user-service 
+	port= 9001
+	/user/1311
+contact-service
+	port=9002
+
+eureka server
+	port=8761
+
+apiGateway
+	port=8999
